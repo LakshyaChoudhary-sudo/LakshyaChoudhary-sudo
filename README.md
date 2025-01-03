@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LakshyaChoudhary-sudo
+- 👋 Hi, I’m @LakshyaChoudhary
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning BBA Business analytics
 - 💞️ I’m looking to collaborate on ...
