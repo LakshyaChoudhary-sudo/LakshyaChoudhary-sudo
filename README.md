@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LakshyaChoudhary
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning BBA Business analytics
+- 🌱 BBA business analytics graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lakshyachoudhary2104@gmial.com
 - 😄 Pronouns: he/him
